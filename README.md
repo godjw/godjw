@@ -3,12 +3,8 @@
 - 🌱 I’m currently studying DL
 - 🔭 Interested in NLP
 
-
-<div align=center>
- 
  [![Jinwon's github stats](https://github-readme-stats.vercel.app/api?username=godjw)](https://github.com/godjw/github-readme-stats)
 
-</div>
 
 
 <!--
